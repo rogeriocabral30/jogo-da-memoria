@@ -49,9 +49,6 @@ A aplicação está rodando na nuvem do Google. Clique abaixo para testar sua me
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por **Rogério Cabral**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogeriocabral30)
+👨‍💻Autor — Rogério Cabral
+<div align="left"><a href="https://www.linkedin.com/in/rogeriocabraldev/"><img src="https://img.shields.io/badge/LinkedIn-ACESSAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/rogeriocabral30"><img src="https://img.shields.io/badge/GitHub-ACESSAR-100000?style=for-the-badge&logo=github&logoColor=white"></a></div>
